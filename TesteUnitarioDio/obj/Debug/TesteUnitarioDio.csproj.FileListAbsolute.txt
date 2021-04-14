@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Teste\TesteUnitario\TesteUnitarioDio\bin\Debug\TesteUnitarioDio.dll
+C:\Users\usuario\source\repos\Teste\TesteUnitario\TesteUnitarioDio\bin\Debug\TesteUnitarioDio.pdb
+C:\Users\usuario\source\repos\Teste\TesteUnitario\TesteUnitarioDio\obj\Debug\TesteUnitarioDio.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Teste\TesteUnitario\TesteUnitarioDio\obj\Debug\TesteUnitarioDio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Teste\TesteUnitario\TesteUnitarioDio\obj\Debug\TesteUnitarioDio.dll
+C:\Users\usuario\source\repos\Teste\TesteUnitario\TesteUnitarioDio\obj\Debug\TesteUnitarioDio.pdb
